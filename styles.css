@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+{
+   padding: 20px;
+   background-color: blue;
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: center;
+}
