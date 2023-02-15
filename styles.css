@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-holder{
+.holder{
    padding: 20px;
    background-color: blue;
    display: flex;
